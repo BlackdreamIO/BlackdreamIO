@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from Bangladesh
+A passionate FullStack developer from Bangladesh
 
 
 ## 🌐 Socials:
